@@ -1,11 +1,8 @@
-# preact-cli embed PDF bug
+# preact-cli embed PDF bug on Chromium
 
 March 03, 2018
 
-| executable | version |
-|------------|---------|
-| node       | 9.7.1   |
-| preact-cli | 2.2.1   |
+https://github.com/developit/preact-cli/issues/518
 
 This repository was created with the command below.
 
