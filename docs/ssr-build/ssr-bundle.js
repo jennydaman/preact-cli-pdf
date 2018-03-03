@@ -314,8 +314,12 @@ var App = function (_Component) {
 		return Object(__WEBPACK_IMPORTED_MODULE_0_preact__["h"])(
 			'main',
 			null,
-			'File: ',
-			state.fname,
+			Object(__WEBPACK_IMPORTED_MODULE_0_preact__["h"])(
+				'h3',
+				null,
+				'File: ',
+				state.fname
+			),
 			_ref,
 			Object(__WEBPACK_IMPORTED_MODULE_0_preact__["h"])(
 				'button',
