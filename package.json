@@ -2,10 +2,10 @@
   "private": true,
   "name": "preact-pdf",
   "version": "0.0.0",
-  "license": "MIT",
+  "license": "ISC",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run -s serve || npm run -s dev",
-    "build": "preact build",
+    "build": "preact build --dest docs --production --prerender",
     "serve": "preact build && preact serve",
     "dev": "preact watch",
     "lint": "eslint src"
