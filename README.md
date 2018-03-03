@@ -1,5 +1,7 @@
 # preact-cli embed PDF bug
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jennydaman/preact-cli-pdf.svg)](https://greenkeeper.io/)
+
 March 03, 2018
 
 | executable | version |
